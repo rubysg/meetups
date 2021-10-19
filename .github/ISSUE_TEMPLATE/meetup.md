@@ -1,7 +1,7 @@
 ---
 name: Meetup
 about: Template for meetup event
-title: ''
+title: RubySG Online Meetup (<Month> <Year>), YYYY-MM-DD
 labels: meetup
 assignees: ''
 
