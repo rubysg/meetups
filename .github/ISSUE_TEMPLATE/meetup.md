@@ -38,19 +38,12 @@ https://t.me/joinchat/TWJ3HtLeJF81EweA
 ## Organizer's Action Items
 
 1. Reminders. All reminders should go on to [Facebook](https://www.facebook.com/groups/singaporerubybrigade/) and [Telegram](https://t.me/joinchat/BPfX501idx5NSmdANkOrtg). 
-    - [ ] 1st Thursday reminder - **Call for proposal**.
-    - [ ] 2nd Thursday reminder - **Announce plans and lineup**.
-    - [ ] 3rd Thursday reminder - **Remind to come online**.
+    - [ ] 2 weeks before Meetup Day - **Create meetup event**.
+    - [ ] 1 week before Meetup Day - **Announce plans and lineup**.
+    - [ ] Meetup Day - **Remind to come for meetup**.
 1. Recordings
     - [ ] Get recording arranged. Ask Engineers.SG whether they can support the event, if not arrange for recording somehow.
 1. Before meetup event preparation
     - [ ] Create Meetup.com event for the next meetup.
     - [ ] Create meetup event slides for the upcoming meetup.
 
-## Speaker's Action Items
-
-1. Comment in this issue with the following information:
-    - Speaker's Name
-    - Title of the talk
-    - Description of talk (< 70 words)
-    - Contact (eg. Email, Twitter Handle)
